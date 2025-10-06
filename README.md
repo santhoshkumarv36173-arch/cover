@@ -50,7 +50,7 @@ jef.html
                     <hr>
                 </div>
                 <div class="content">
-                    <p>Hacking Devices</p>
+                    <p>Code with Attitude</p>
                 </div>
                 <br>
                 <div class="subtitle">
@@ -181,7 +181,7 @@ body{
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-06 183848.png>)
+![alt text](<Screenshot 2025-10-06 185209.png>)
 
 
 ## RESULT:
