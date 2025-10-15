@@ -65,7 +65,7 @@ jef.html
                     <div class="edition">
                         <h2>Limited Edition</h2>
                         <br>
-                        <hr>
+                        <hr style="position: relative; bottom:40px;">
                     </div>
                     <div class="writer">
                         <h2>SANTHOSH KUMAR V</h2>
@@ -181,7 +181,7 @@ body{
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-06 185209.png>)
+![alt text](<kumar/Screenshot 2025-10-15 194931.png>)
 
 
 ## RESULT:
